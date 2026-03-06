@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-var strLine = "Hello,World!!! C# Conio Example!!!";
+var strLine = "Hello World!!! Jumping Letters!!! Press Any Key To Exit!!!";
 var nLen = strLine.Length;
 Console.Clear();
 Console.CursorVisible = false;
