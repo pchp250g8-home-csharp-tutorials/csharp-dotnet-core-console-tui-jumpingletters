@@ -23,7 +23,7 @@ The program does the following:
                  The output is delayed by 5 milliseconds.
           5.4.5. The value of the inner loop parameter is decreased by 1 (loop step).
      5.5. The value of the outer loop parameter is incremented by 1 (loop step).
-  6. The entire row is displayed on the screen in row 10 and column 10.
+  6. The entire string is displayed on the screen in row 10 and column 10.
   7. Waiting for a key to be pressed.
   8. Exits.
     
